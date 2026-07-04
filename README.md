@@ -24,7 +24,7 @@ Full operational health canvas displaying overall transactional volumes, gross s
 ![Global Retail Dashboard Overview](Preview2.png)
 
 ### Report 3: Monthly Average Order Value (AOV) Deficit Analysis
-Granular breakdown tracking seasonal order fluctuations and identifying strategic transaction variance by month.
+breakdown tracking seasonal order fluctuations and identifying strategic transaction variance by month.
 ![Monthly AOV Variance Analysis](Preview3.png)
 
 ### Report 4: Monthly Trend Analysis (Stable Target Benchmark)
